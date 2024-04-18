@@ -74,3 +74,15 @@ footer {
     align-items: center;
 }
 
+footer p {
+    font-size: 1.2rem;
+    color: aliceblue;
+}
+
+footer a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-weight: 500;
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+
